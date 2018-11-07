@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "url":"https://img12.360buyimg.com/n5/jfs/t8509/244/466174229/34411/52eeb2d6/59a8f729N347a513c.jpg",
+        "prace":1290.00,
+        "oldPrace":1590.00,
+        "name":"跳动的心",
+        "discount":9.9,
+        "num":5000
+    },
+    {
+        "id":2,
+        "url":"https://img14.360buyimg.com/n5/jfs/t20926/248/559669619/467175/8c310fb3/5b10ce04N8ae7d881.jpg",
+        "prace":158.00,
+        "oldPrace":198.00,
+        "name":"吴越老银铺",
+        "discount":7.7,
+        "num":12880
+    },
+    {
+        "id":3,
+        "url":"https://img12.360buyimg.com/n5/jfs/t9262/255/1953789907/131013/ee54c25f/59c1cfbaN745cb761.jpg",
+        "prace":1507.00,
+        "oldPrace":1599.00,
+        "name":"周生生",
+        "discount":8.8,
+        "num":9300
+    }
+]
